@@ -81,4 +81,16 @@ connectToMySQL.query("SELECT number FROM blocks", function (err, result, fields)
     }
 });
 
+
+
+
+
+
+
+
+
+
+
+
+
 //connectToMySQL.end(); 會有問題

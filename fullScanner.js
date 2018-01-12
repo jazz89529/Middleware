@@ -50,6 +50,7 @@ web3.eth.getBlockNumber(function (error, committedBlockNumber){
                         });
 
                 }
+                console.log(resultOfBlock/*.difficulty.toNumber()*/);
             });
         }
     }
